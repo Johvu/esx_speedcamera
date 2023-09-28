@@ -1,5 +1,5 @@
 # esx_speedcamera
-Esx compatible road speedcamera with prop and flash 
+simple esx compatible speedcamera with prop and flash 
 
 Finnish model work in progress
 
