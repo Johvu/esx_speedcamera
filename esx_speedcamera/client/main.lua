@@ -97,6 +97,7 @@ Citizen.CreateThread(function()
 				
 				if tableContains(Config.Cameras[k].jobs, ESX.PlayerData.job.name) then
 					return
+				end
 				
 				if speed > Config.Cameras[k].alert then
 					if IsPedInAnyVehicle(playerPed, false) then
