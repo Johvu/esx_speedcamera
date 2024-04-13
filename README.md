@@ -11,6 +11,7 @@ Be free to make merge requests to the repository if you see some space for impro
 TODO:
 - [ ] Bill will be sent to the owner of the car not the driver
 - [ ] Finnish model for speedcamera
+- [ ] Allowed vehicles
 - [X] Make readme
 
 
