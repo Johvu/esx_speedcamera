@@ -6,6 +6,11 @@ Config.useBilling = true
 Config.useCameraSound = true 
 Config.alertAuthorities = true 
 
+Config.AlloweVehicles = {
+	"POLICE",
+    "FBI"
+}
+
 Config.Cameras = {
 	{speed=80, alert=80, price=25, radius=30, title="Kamera (80KM/H)1", colour=1, id=1, blip=true,  model='prop_cctv_pole_01a', prop_z= 38.75-5, x = 2529.04, y = 4148.44, z = 38.75, heading=138.52, sensor_point1=vector3(2519.01, 4136.91, 38.58), sensor_point2=vector3(2514,4137.31,38.59), jobs={'police'}},
 
